@@ -1,13 +1,14 @@
 ## Hi 👋 I'm Ivan He
 
-- 📍 Based in **Lethbridge, AB**
+- 📍 Currently in **Lethbridge, AB**
 - 🎓 **Computer Science** student at the **University of Lethbridge**
 - 🛡️ Certified **Google IT Support Professional**
 - 🎯 Seeking a **8-16 month internship starting May 2026**
 
 ### 🛠️ Tech Stack
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+**Languages:** 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
@@ -15,18 +16,21 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-012456?logo=powershell&logoColor=white)
 
-**Web Development:** ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+**Web Development:**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![REST API](https://img.shields.io/badge/REST_API-005571?logo=google-cloud&logoColor=white)
 
 **Data & Visualization:** ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=python&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 
-**Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+**Databases:** 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-**Tools & Environments:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+**Tools & Environments:** 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
@@ -37,8 +41,6 @@
 ### 🚀 Top Projects
 
 * **[Pathfinding Optimization](https://github.com/EliteDuckie)**: Built a Bidirectional Dijkstra’s algorithm in **C++** that achieved a **78x speed increase** over the base model.
-* **[Blackjack Probability Simulation](https://github.com/EliteDuckie)**: A **Python** tool that models mathematical win/loss patterns and automates game logic.
-* **[Online Gallery](https://github.com/EliteDuckie)**: A responsive HTML/CSS website designed for intuitive navigation and high accessibility standards.
 
 ---
 
