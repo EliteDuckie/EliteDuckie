@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Ivan He
 
-- 📍 Currently in **Lethbridge, AB**
+- 📍 Currently in **Calgary, AB**
 - 🎓 **Computer Science** student at the **University of Lethbridge**
 - 🛡️ Certified **Google IT Support Professional**
 - 🎯 Seeking a **8-16 month internship starting May 2026**
