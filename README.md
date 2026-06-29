@@ -37,7 +37,8 @@
 
 ### 🚀 Top Projects
 
-* **[Pathfinding Optimization]([[https://github.com/EliteDuckie](https://github.com/EliteDuckie/Bidirectional-Dijkstra-Algorithm)])**: Built a Bidirectional Dijkstra’s algorithm in **C++** that achieved a **78x speed increase** over the base model.
+* **[PyTabletop Engine](https://github.com/EliteDuckie/PyTabletop_Engine)**: Developed a modular, object-oriented tabletop game engine in **Python** featuring abstract base classes, statistical simulation capabilities, and programmed mechanics for 6 distinct terminal-based card games.
+* **[Pathfinding Optimization](https://github.com/EliteDuckie/Bidirectional-Dijkstra-Algorithm)**: Built a Bidirectional Dijkstra’s algorithm in **C++** that achieved a **78x speed increase** over the base model.
 
 ---
 
