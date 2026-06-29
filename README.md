@@ -37,7 +37,7 @@
 
 ### 🚀 Top Projects
 
-* **[Pathfinding Optimization](https://github.com/EliteDuckie)**: Built a Bidirectional Dijkstra’s algorithm in **C++** that achieved a **78x speed increase** over the base model.
+* **[Pathfinding Optimization]([https://github.com/EliteDuckie](https://github.com/EliteDuckie/Bidirectional-Dijkstra-Algorithm))**: Built a Bidirectional Dijkstra’s algorithm in **C++** that achieved a **78x speed increase** over the base model.
 
 ---
 
